@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Carlos</h1>
-<h3 align="center">An interested developer on BackEnd using Django</h3>
+<h3 align="center">A Software Development Student, I'm interested on Django Developing!</h3>
 
 - 🌱 I’m currently learning **Python, Django!**
 
