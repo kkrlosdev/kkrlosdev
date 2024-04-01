@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,bootstrap,git,github,notion">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkrlosdev&show_icons=true&locale=en&layout=compact" alt="kkrlosdev" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkrlosdev&show_icons=true&locale=en&layout=compact" alt="kkrlosdev"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkrlosdev&show_icons=true&locale=en" alt="kkrlosdev" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkrlosdev&show_icons=true&locale=en" alt="kkrlosdev" />
 
