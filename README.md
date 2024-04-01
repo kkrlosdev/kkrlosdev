@@ -9,10 +9,14 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"> (https://skillicons.dev/icons?i=html,css,js,tailwind,py,django,flask,mysql,postgres,sqlite)](https://skillicons.dev) </p>
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,py,django,flask,mysql,postgres,sqlite"/>
+</p>
 
 <h3 align="left">Tools:</h3>
-<p align="left">(https://skillicons.dev/icons?i=vscode,visualstudio,bootstrap,git,github,notion)](https://skillicons.dev)</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,bootstrap,git,github,notion">
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkrlosdev&show_icons=true&locale=en&layout=compact" alt="kkrlosdev" /></p>
 
