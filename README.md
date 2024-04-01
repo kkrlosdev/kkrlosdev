@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlosrodriguez1205" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="carlosrodriguez1205" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlosrodriguez1205" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="carlosrodriguez1205"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
