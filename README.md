@@ -26,7 +26,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,bootstrap,git,github,notion">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,bootstrap,git,github,notion,bash,ubuntu">
 </p>
 
 
