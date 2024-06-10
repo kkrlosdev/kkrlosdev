@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlosrodriguez1205" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="carlosrodriguez1205"/></a>
-<a href="https://carlos1205.pythonanywhere.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<a href="https://kkrlosdev.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
