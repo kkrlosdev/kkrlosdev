@@ -16,7 +16,7 @@
 
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,nextjs,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,nextjs,tailwind,astro"/>
 </p>
 
 <h3 align="left">Databases:</h3>
