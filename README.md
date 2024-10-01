@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
 </p>
 
 <h3 align="left">Frameworks and Libraries:</h3>
@@ -21,12 +21,12 @@
 
 <h3 align="left">Databases:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,bootstrap,git,github,notion,bash,ubuntu">
+  <img src="https://skillicons.dev/icons?i=vscode,bootstrap,git,github,obsidian,bash,ubuntu">
 </p>
 
 <div align="left">
