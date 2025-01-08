@@ -1,7 +1,9 @@
 <h1 align="center">Hi! 👋, I'm Carlos</h1>
-<h3 align="center">A Software Development Student, I'm interested on Django Developing!</h3>
+<h3 align="center">Technician in Software Development & Software Engineering Student</h3>
 
-- 🌱 I’m currently learning **Python, Django!**
+- 🐧 I’m currently learning **Linux :)**
+- 🐍 Improving my skills in Python
+- 👾 Currently working as a Developer at Gelco SAS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,19 +16,25 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
 </p>
 
-<h3 align="left">Frameworks and Libraries:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,nextjs,tailwind,astro"/>
-</p>
-
 <h3 align="left">Databases:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
+<h3 align="left">Frameworks and Libraries:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,nextjs,tailwind,astro"/>
+</p>
+
+
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,bootstrap,git,github,obsidian,bash,ubuntu">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,bash,linux,ubuntu">
+</p>
+
+<h3 align="left">Hobbies:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c">
 </p>
 
 <div align="left">
