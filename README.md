@@ -29,7 +29,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,bash,linux,ubuntu">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,bash,linux,ubuntu,docker,">
 </p>
 
 <h3 align="left">Hobbies:</h3>
