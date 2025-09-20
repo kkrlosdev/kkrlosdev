@@ -1,9 +1,9 @@
-<h1 align="center">Hi! 👋, I'm Carlos</h1>
-<h3 align="center">Technician in Software Development & Software Engineering Student</h3>
+Hi, I'm Carlos 👋.
+<h3 align="left">Technician in Software Development & Software Engineering Student</h3>
 
-- 🐧 I’m currently learning **Linux :)**
-- 🐍 Improving my skills in Python
-- 👾 Currently working as a Developer at Gelco SAS
+🐧 I really love **Linux** :) <br>
+🐍 Improving my skills in Python <br>
+👾 Currently working as a Developer at Gelco SAS <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +36,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c">
 </p>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkrlosdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
