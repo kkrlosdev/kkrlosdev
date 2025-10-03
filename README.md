@@ -13,7 +13,9 @@ Hi, I'm Carlos 👋.
 
 <h5 align="left">Languages:</h5>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skills.syvixor.com/api/icons?i=css">
+  <img src="https://skillicons.dev/icons?i=js,py"/>
 </p>
 
 <h5 align="left">Databases:</h5>
@@ -29,7 +31,9 @@ Hi, I'm Carlos 👋.
 
 <h5 align="left">Tools:</h5>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,bash,linux,ubuntu,docker,">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,bash,ubuntu,docker">
+  <img src="https://skillicons.dev/icons?i=linux&theme=light">
+
 </p>
 
 <h5 align="left">Hobbies:</h5>
