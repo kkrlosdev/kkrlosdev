@@ -1,42 +1,26 @@
-Hi, I'm Carlos 👋.
-<h4 align="left">Technician in Software Development & Software Engineering Student</h3>
+Hi, I'm Carlos 👋
 
-🐧 I really love **Linux** :) <br>
-🐍 Improving my skills in Python <br>
-👾 Currently working as a Developer at Gelco SAS <br>
+I'm passionate about software and systems engineering.
 
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://linkedin.com/in/carlosrodriguez1205" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="carlosrodriguez1205"/></a>
-<a href="https://kkrlosdev.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
+Currently working as a **Developer** at Gelco SAS.
 
-<h5 align="left">Languages:</h5>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html"/>
-  <img src="https://skills.syvixor.com/api/icons?i=css">
-  <img src="https://skillicons.dev/icons?i=js,py"/>
-</p>
+#### Technologies
 
-<h5 align="left">Databases:</h5>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-  <img src="https://skills.syvixor.com/api/icons?i=sqlserver"/>
-</p>
+I work mainly with:
 
-<h5 align="left">Frameworks and Libraries:</h5>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nodejs,nextjs,tailwind,astro"/>
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=py,git,github,docker,linux,fastapi"/>
+  <img src="https://skills.syvixor.com/api/icons?i=n8n" style="margin-left: 22px;"/>
+</div>
 
-<h5 align="left">Tools:</h5>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,bash,ubuntu,docker">
-  <img src="https://skillicons.dev/icons?i=linux&theme=light">
+I focus on building APIs with FastAPI, working in Linux environments, designing automation workflows, and creating practical solutions for real business needs.
 
-</p>
+Most of my work is private, but you can get an idea of how I build things here [Tasks project](https://github.com/kkrlosdev/tasks_api).
 
-<h5 align="left">Hobbies:</h5>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,neovim">
-</p>
+#### Engineering approach
+
+I design systems that adapt to business needs, prioritizing pragmatic solutions, scalability, and long-term maintainability.
+
+#### Experience
+
+Experience in backend development, automation workflows, and system design.
