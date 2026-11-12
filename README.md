@@ -11,8 +11,8 @@ I work mainly with:
 ---
 
 <div>
-  <img src="https://skillicons.dev/icons?i=py,git,githubactions,docker,linux,fastapi,sqlite"/>
-  <img src="https://skills.syvixor.com/api/icons?i=n8n,sqlserver" style="margin-left: 22px;"/>
+  <img src="https://skillicons.dev/icons?i=py,git,githubactions,docker,linux,fastapi"/>
+  <img src="https://skills.syvixor.com/api/icons?i=n8n,sql" style="margin-left: 22px;"/>
 </div>
 
 ---
