@@ -11,15 +11,13 @@ I work mainly with:
 ---
 
 <div>
-  <img src="https://skillicons.dev/icons?i=py,git,github,docker,linux,fastapi"/>
-  <img src="https://skills.syvixor.com/api/icons?i=n8n" style="margin-left: 22px;"/>
+  <img src="https://skillicons.dev/icons?i=py,git,githubactions,docker,linux,fastapi,sqlite"/>
+  <img src="https://skills.syvixor.com/api/icons?i=n8n,sqlserver" style="margin-left: 22px;"/>
 </div>
 
 ---
 
 I focus on building APIs with FastAPI, working in Linux environments, designing automation workflows, and creating practical solutions for real business needs.
-
-Most of my work is private, but you can get an idea of how I build things here [Tasks project](https://github.com/kkrlosdev/tasks_api).
 
 #### Engineering approach
 
